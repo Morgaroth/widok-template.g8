@@ -1,0 +1,8 @@
+target/
+boot/
+project/project
+.idea
+lib_managed/
+src_managed/
+project/plugins/project/
+project-test
